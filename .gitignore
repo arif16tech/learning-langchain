@@ -12,3 +12,8 @@ __pycache__/
 
 # IDE
 .vscode/
+
+# Jupyter & Vector DB files
+.ipynb_checkpoints/
+chroma_db/
+*.sqlite3
